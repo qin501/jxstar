@@ -1,0 +1,1 @@
+﻿jdLang['store_mtype'] = {	'store_mtype__type_code':'分类编码',	'store_mtype__type_name':'分类名称',	'store_mtype__type_level':'级别',	'store_mtype__type_desc':'分类描述',	'store_mtype__type_id':'主键'};

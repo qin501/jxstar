@@ -1,0 +1,1 @@
+﻿jdLang['oa_news'] = {	'oa_news__state':'状态',	'oa_news__news_title':'公告标题',	'oa_news__news_cont':'公告内容',	'oa_news__edit_date':'发布时间',	'oa_news__edit_user':'发布人',	'oa_news__dept_name':'发布单位',	'oa_news__is_top':'置顶？',	'oa_news__cont_type':'信息类型',	'oa_news__edit_userid':'发布人ID',	'oa_news__dept_id':'部门ID',	'oa_news__news_id':'主键',	'oa_news__news_code':'编号'};

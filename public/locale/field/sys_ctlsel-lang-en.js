@@ -1,0 +1,1 @@
+﻿jdLang['sys_ctlsel'] = {	'funall_control__control_code':'Control code',	'funall_control__control_name':'Controls name',	'funall_control__control_prop':'Control properties',	'funall_control__fun_id':'Feature ID',	'funall_control__layout_page':'Select layout',	'funall_control__control_id':'Control_id',	'funall_control__control_type':'Control types'};

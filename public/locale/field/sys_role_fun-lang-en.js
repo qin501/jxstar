@@ -1,0 +1,1 @@
+﻿jdLang['sys_role_fun'] = {	'fun_base__fun_name':'Function name',	'sys_role_fun__is_edit':'Edit right',	'sys_role_fun__is_print':'Print right',	'sys_role_fun__is_audit':'Check right',	'sys_role_fun__is_other':'Other right',	'sys_role_fun__fun_id':'Function ID',	'sys_role_fun__role_fun_id':'Set ID',	'sys_role_fun__role_id':'Role ID'};

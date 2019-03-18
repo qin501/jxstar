@@ -1,0 +1,1 @@
+﻿jdLang['plet_chart'] = {	'plet_chart__chart_index':'No.',	'plet_chart__chart_name':'Graph Name',	'plet_chart__chart_option':'Config code',	'plet_chart__chart_type':'Graph type',	'plet_chart__chart_id':'Graph ID'};

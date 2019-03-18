@@ -1,0 +1,1 @@
+﻿jdLang['sel_plettype'] = {	'v_plet_type__type_code':'Column code',	'v_plet_type__type_name':'Column name',	'v_plet_type__object_name':'Content name',	'v_plet_type__portlet_title':'Show title',	'v_plet_type__object_id':'Content ID',	'v_plet_type__type_id':'Column ID'};

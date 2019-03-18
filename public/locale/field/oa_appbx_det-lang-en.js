@@ -1,0 +1,1 @@
+﻿jdLang['oa_appbx_det'] = {	'oa_appbx_det__appbx_project':'Reimbursement project',	'oa_appbx_det__money':'Money (yuan)',	'oa_appbx_det__det_id':'Primary key',	'oa_appbx_det__apply_id':'Reimbursement form ID'};

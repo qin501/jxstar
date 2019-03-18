@@ -1,0 +1,1 @@
+﻿jdLang['sys_user_funx'] = {	'fun_base__fun_name':'Function name',	'sys_user_funx__ext_sql':'Data right SQL',	'sys_user_funx__user_id':'User ID',	'sys_user_funx__user_funx_id':'Set ID',	'sys_user_funx__fun_id':'Function ID'};

@@ -1,0 +1,1 @@
+﻿jdLang['store_mat'] = {	'store_mat__mat_code':'物资编码',	'store_mat__mat_name':'物资名称',	'store_mat__mat_size':'型号',	'store_mat__mat_unit':'单位',	'store_mat__mat_price':'单价(元)',	'store_mat__type_code':'分类编码',	'store_mat__type_name':'物资分类',	'store_mat__mat_desc':'备注',	'store_mat__type_id':'分类ID',	'store_mat__mat_id':'主键'};

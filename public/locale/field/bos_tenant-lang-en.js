@@ -1,0 +1,1 @@
+﻿jdLang['bos_tenant'] = {	'bos_tenant__tenant_name':'Tenant name',	'bos_tenant__tenant_type':'Tenant type',	'bos_tenant__edit_date':'Registration time',	'bos_tenant__invalid_date':'Failure time',	'bos_tenant__memo':'Memo',	'bos_tenant__auditing':'State',	'bos_tenant__bos_tenant_id':'Primary key'};

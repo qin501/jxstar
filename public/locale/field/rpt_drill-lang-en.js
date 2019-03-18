@@ -1,0 +1,1 @@
+﻿jdLang['rpt_drill'] = {	'rpt_drill__fun_id':'Function ID',	'rpt_drill__where_sql':'Display WhereSql',	'rpt_drill__where_type':'Display WhereType',	'rpt_drill__where_value':'Display WhereValue',	'rpt_drill__use_field':'Drill field',	'rpt_drill__show_mode':'Display mode',	'rpt_drill__drill_id':'Primary key',	'rpt_drill__area_id':'Area ID'};

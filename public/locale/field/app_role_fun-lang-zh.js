@@ -1,0 +1,1 @@
+﻿jdLang['app_role_fun'] = {	'app_role_fun__app_funcode':'功能代号',	'app_fun__fun_name':'功能名称',	'app_role_fun__is_fast':'是否快捷',	'app_role_fun__is_query':'查询权限',	'app_role_fun__is_edit':'编辑权限',	'app_role_fun__is_delete':'删除权限',	'app_role_fun__is_other':'其它权限',	'app_role_fun__role_funid':'设置ID',	'app_role_fun__app_funid':'功能ID',	'app_role_fun__role_id':'角色ID'};

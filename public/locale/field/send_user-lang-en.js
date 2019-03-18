@@ -1,0 +1,1 @@
+﻿jdLang['send_user'] = {	'plet_msg_user__user_name':'Recipient',	'plet_msg_user__dept_name':'Dept name',	'plet_msg_user__user_id':'Recipient ID',	'plet_msg_user__dept_id':'Dept ID',	'plet_msg_user__msg_id':'Message ID',	'plet_msg_user__key_id':'Primary key'};

@@ -1,0 +1,1 @@
+﻿jdLang['wf_order'] = {	'wf_order__order_no':'序号',	'wf_order__fun_id':'功能ID',	'wf_order__fun_name':'审批标题',	'wf_order__sys_name':'外部系统名称',	'wf_order__sys_code':'外部系统代号',	'wf_order__order_audit':'状态',	'wf_order__order_inc':'扩展脚本',	'wf_order__order_id':'审批单ID'};

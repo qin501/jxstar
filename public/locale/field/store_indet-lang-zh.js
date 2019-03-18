@@ -1,0 +1,1 @@
+﻿jdLang['store_indet'] = {	'store_mat__mat_code':'物资编码',	'store_mat__mat_name':'物资名称',	'store_mat__mat_size':'型号',	'store_mat__mat_unit':'单位',	'store_mat__mat_price':'单价(元)',	'store_indet__in_num':'入库数量',	'store_indet__in_money':'入库金额',	'store_indet__local_code':'货位',	'store_indet__in_id':'入库单ID',	'store_indet__in_detid':'主键',	'store_indet__mat_id':'物资ID'};

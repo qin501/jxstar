@@ -1,0 +1,1 @@
+﻿jdLang['sys_coderule'] = {	'sys_coderule__code_ext':'Code ext',	'sys_coderule__code_no':'Code serial number',	'sys_coderule__code_length':'Code length and contains no prefix',	'sys_coderule__code_memo':'number rule desc',	'sys_coderule__rule_id':'number rule ID',	'sys_coderule__fun_id':'Function ID'};

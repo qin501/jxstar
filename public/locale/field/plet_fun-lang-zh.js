@@ -1,0 +1,1 @@
+﻿jdLang['plet_fun'] = {	'plet_fun__fun_id':'功能ID',	'plet_fun__fun_name':'功能名称',	'plet_fun__fun_no':'序号',	'plet_fun__comm_type':'常用功能分类',	'plet_fun__is_fast':'是否快速创建',	'plet_fun__set_type':'设置类型',	'plet_fun__owner_user_id':'个人ID',	'plet_fun__portlet_id':'栏目ID',	'plet_fun__det_id':'明细ID',	'plet_fun__role_id':'角色ID'};

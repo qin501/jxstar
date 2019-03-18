@@ -1,0 +1,1 @@
+﻿jdLang['fun_texts'] = {	'funall_text__prop_key':'键值',	'funall_text__prop_value':'文字描述',	'funall_text__prop_value_en':'英文描述',	'funall_text__prop_value_bg':'繁体描述',	'funall_text__sys_type':'类型',	'funall_text__prop_src':'来源',	'funall_text__prop_id':'属性ID'};

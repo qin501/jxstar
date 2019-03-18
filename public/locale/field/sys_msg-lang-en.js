@@ -1,0 +1,1 @@
+﻿jdLang['sys_msg'] = {	'sys_news__state':'State',	'sys_news__news_cont':'Message content',	'sys_news__edit_date':'Release time',	'sys_news__edit_user':'Release user',	'sys_news__news_id':'Primary key',	'sys_news__edit_userid':'Publisher ID',	'sys_news__cont_type':'Info type'};

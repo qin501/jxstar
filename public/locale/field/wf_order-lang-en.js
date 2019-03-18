@@ -1,0 +1,1 @@
+﻿jdLang['wf_order'] = {	'wf_order__order_no':'No.',	'wf_order__fun_id':'Function ID',	'wf_order__fun_name':'Approval title',	'wf_order__sys_name':'External system name',	'wf_order__sys_code':'External system code',	'wf_order__order_audit':'State',	'wf_order__order_inc':'Extend script',	'wf_order__order_id':'Approval form ID'};

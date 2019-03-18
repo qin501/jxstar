@@ -1,0 +1,1 @@
+﻿jdLang['app_package'] = {	'app_package__pack_code':'包代号',	'app_package__pack_name':'包名称',	'app_package__pack_icon':'包图标',	'app_package__pack_index':'显示序号',	'app_package__pack_type':'包类型',	'app_package__pack_memo':'包描述',	'app_package__pack_level':'包级别',	'app_package__bar_code':'栏目代号',	'app_package__pack_id':'应用包ID',	'app_package__bar_id':'栏目ID'};

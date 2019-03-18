@@ -1,0 +1,1 @@
+﻿jdLang['imp_field'] = {	'imp_field__field_name':'Field name',	'imp_field__field_title':'Field',	'imp_field__field_pos':'Location',	'imp_field__data_type':'Data type',	'imp_field__is_must':'Must?',	'imp_field__is_param':'New value',	'imp_field__field_no':'No.',	'imp_field__data_src':'Source',	'imp_field__imp_id':'Define ID',	'imp_field__field_id':'Primary key'};

@@ -1,0 +1,1 @@
+﻿jdLang['imp_relat'] = {	'imp_relat__relat_sql':'Relat SQL',	'imp_relat__relat_id':'Relat ID',	'imp_relat__imp_id':'Define ID'};

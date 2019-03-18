@@ -1,0 +1,1 @@
+﻿jdLang['total_areach'] = {	'rpt_chart__area_index':'No.',	'rpt_chart__area_name':'Name',	'rpt_chart__iconcls':'Icon CSS',	'rpt_chart__area_type':'Regional type',	'rpt_chart__object_id':'Statistical ID| graphics ID',	'rpt_chart__object_name':'Statistical object',	'rpt_chart__report_id':'Report ID',	'rpt_chart__area_id':'Area ID'};

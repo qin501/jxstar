@@ -1,0 +1,1 @@
+﻿jdLang['fun_event_info'] = {	'module_name':'Classname (including package name)',	'method_name':'Method name',	'issys':'System class?',	'hassql':'SQL?',	'event_code':'Event code',	'position':'Ext postion',	'invoke_id':'Call ID',	'event_id':'Event ID',	'invoke_index':'No.',	'fun_id':'Feature ID'};

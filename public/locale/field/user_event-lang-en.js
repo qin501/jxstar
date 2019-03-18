@@ -1,0 +1,1 @@
+﻿jdLang['user_event'] = };

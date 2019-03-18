@@ -1,0 +1,1 @@
+﻿jdLang['fun_layout'] = {	'funall_layout__layout_path':'Layout path',	'funall_layout__layout_memo':'Layout description',	'funall_layout__layout_id':'Layout ID'};

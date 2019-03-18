@@ -1,0 +1,1 @@
+﻿jdLang['plet_kpi'] = {	'plet_kpi__kpi_name':'Index name',	'plet_kpi__value_type':'Value type',	'plet_kpi__mb_value':'Target',	'plet_kpi__zy_value':'Warn value',	'plet_kpi__bj_value':'Alarm value',	'plet_kpi__kpi_sql':'Stat SQL',	'plet_kpi__kpi_id':'Index ID'};

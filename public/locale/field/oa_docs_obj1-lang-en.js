@@ -1,0 +1,1 @@
+﻿jdLang['oa_docs_obj1'] = {	'oa_docs_obj__obj_name':'Name / Department',	'oa_docs_obj__obj_code':'Object number',	'oa_docs_obj__obj_type':'Type',	'oa_docs_obj__right_type':'Permission types',	'oa_docs_obj__docs_id':'File ID',	'oa_docs_obj__docs_objid':'Primary key',	'oa_docs_obj__obj_id':'Object ID'};

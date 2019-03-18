@@ -1,0 +1,1 @@
+﻿jdLang['tree_text'] = {	'v_sys_text__keyname':'Key value',	'v_sys_text__keylevel':'Level'};

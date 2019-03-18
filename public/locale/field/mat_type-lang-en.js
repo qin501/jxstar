@@ -1,0 +1,1 @@
+﻿jdLang['mat_type'] = {	'mat_type__type_code':'Type number',	'mat_type__type_name':'Type name',	'mat_type__type_memo':'Memo',	'mat_type__type_level':'Level',	'mat_type__type_id':'Type ID'};

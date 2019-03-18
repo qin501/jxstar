@@ -1,0 +1,1 @@
+﻿jdLang['fun_texts'] = {	'funall_text__prop_key':'Key value',	'funall_text__prop_value':'Text description',	'funall_text__prop_value_en':'English description',	'funall_text__prop_value_bg':'Traditional description',	'funall_text__sys_type':'Type',	'funall_text__prop_src':'Source',	'funall_text__prop_id':'Attribute ID'};

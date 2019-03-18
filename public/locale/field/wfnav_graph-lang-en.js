@@ -1,0 +1,1 @@
+﻿jdLang['wfnav_graph'] = {	'wfnav_graph__graph_code':'Flow chart number',	'wfnav_graph__graph_name':'Flow chart name',	'wfnav_graph__module_name':'Module name',	'wfnav_graph__auditing':'Record state',	'wfnav_graph__module_id':'Module ID',	'wfnav_graph__graph_id':'Primary key'};

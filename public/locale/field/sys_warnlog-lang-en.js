@@ -1,0 +1,1 @@
+﻿jdLang['sys_warnlog'] = {	'warn_log__start_date':'Start time',	'warn_log__end_date':'End time',	'warn_log__server_name':'Server name',	'warn_log__server_ip':'Server IP',	'warn_log__run_error':'Runtime error',	'warn_log__log_id':'Log ID',	'warn_log__warn_id':'Report ID'};

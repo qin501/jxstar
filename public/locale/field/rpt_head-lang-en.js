@@ -1,0 +1,1 @@
+﻿jdLang['rpt_head'] = {	'rpt_head__display':'Field label',	'rpt_head__col_code':'Display value',	'rpt_head__col_pos':'Display position',	'rpt_head__format':'View style',	'rpt_head__report_id':'Report ID',	'rpt_head__head_id':'Header ID'};

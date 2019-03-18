@@ -1,0 +1,1 @@
+﻿jdLang['chart_total3'] = };

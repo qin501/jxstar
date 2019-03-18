@@ -1,0 +1,1 @@
+﻿jdLang['sys_role_event'] = {	'fun_event__event_code':'Event code',	'fun_event__event_name':'Event name',	'sys_role_event__role_event_id':'Set ID',	'sys_role_event__role_fun_id':'Role function ID',	'sys_role_event__event_id':'Event ID'};

@@ -1,0 +1,1 @@
+﻿jdLang['sys_warnuser'] = {	'sys_user__user_code':'User code',	'warn_user__user_name':'User name',	'warn_user__cond_where':'Assign condition',	'sys_dept__dept_code':'Dept code',	'sys_dept__dept_name':'Dept name',	'sys_dept__dept_id':'Dept ID',	'warn_user__user_detid':'Assign ID',	'warn_user__warn_id':'Report ID',	'warn_user__user_id':'User ID'};

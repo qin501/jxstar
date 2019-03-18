@@ -1,0 +1,1 @@
+﻿jdLang['sys_taskparam'] = {	'task_param__param_name':'Parameter name',	'task_param__param_value':'Parameter value',	'task_param__param_memo':'Parameter describe',	'task_param__task_id':'Task ID',	'task_param__param_id':'Parameter ID'};

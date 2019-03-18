@@ -1,0 +1,1 @@
+﻿jdLang['rpt_wfnode'] = {	'wf_process__process_name':'Process Name',	'wf_node__node_title':'Node Name',	'wf_node__process_id':'Process ID',	'wf_node__node_id':'Node ID',	'wf_node__wfnode_id':'Primary key',	'wf_process__fun_id':'Function ID'};

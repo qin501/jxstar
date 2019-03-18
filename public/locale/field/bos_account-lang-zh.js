@@ -1,0 +1,1 @@
+﻿jdLang['bos_account'] = {	'bos_account__auditing':'状态',	'bos_account__account_code':'账号',	'bos_account__account_pwd':'密码',	'bos_account__edit_date':'注册时间',	'bos_account__invalid_date':'失效时间',	'bos_account__account_id':'主键',	'bos_account__tenant_id':'租户ID'};

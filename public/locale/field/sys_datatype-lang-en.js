@@ -1,0 +1,1 @@
+﻿jdLang['sys_datatype'] = {	'sys_datatype__dtype_name':'Data name',	'sys_datatype__dtype_field':'Permissions field',	'sys_datatype__funid':'Source function',	'sys_datatype__fun_field':'Source field',	'sys_datatype__fun_vfield':'Display field',	'sys_datatype__control_code':'Control code',	'sys_datatype__dtype_id':'Set ID'};

@@ -1,0 +1,1 @@
+﻿jdLang['sys_news_obj'] = {	'sys_news_obj__obj_type':'类型',	'sys_news_obj__obj_code':'编号',	'sys_news_obj__obj_name':'名称',	'sys_news_obj__obj_detid':'主键',	'sys_news_obj__news_id':'新闻ID',	'sys_news_obj__obj_id':'对象ID'};

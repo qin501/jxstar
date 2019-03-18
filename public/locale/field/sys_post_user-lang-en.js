@@ -1,0 +1,1 @@
+﻿jdLang['sys_post_user'] = {	'sys_user__user_code':'No',	'sys_dept__dept_name':'Department',	'sys_user__user_name':'Name',	'sys_post_user__post_detid':'Primary key',	'sys_post_user__user_id':'User ID',	'sys_user__dept_id':'Dept ID',	'sys_post_user__post_id':'Job ID'};

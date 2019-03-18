@@ -1,0 +1,1 @@
+﻿jdLang['sys_post_user'] = {	'sys_user__user_code':'编号',	'sys_dept__dept_name':'部门',	'sys_user__user_name':'姓名',	'sys_post_user__post_detid':'主键',	'sys_post_user__user_id':'用户ID',	'sys_user__dept_id':'部门ID',	'sys_post_user__post_id':'岗位ID'};

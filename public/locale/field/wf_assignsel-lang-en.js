@@ -1,0 +1,1 @@
+﻿jdLang['wf_assignsel'] = {	'v_wf_assignsel__check_user':'Approver',	'v_wf_assignsel__node_title':'Node',	'v_wf_assignsel__node_id':'Node ID',	'v_wf_assignsel__check_userid':'Approver ID',	'v_wf_assignsel__data_id':'Data ID',	'v_wf_assignsel__fun_id':'Function ID'};

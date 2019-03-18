@@ -1,0 +1,1 @@
+﻿jdLang['wf_agree_text'] = {	'wf_agree_text__agree_text':'模版内容',	'wf_agree_text__text_id':'主键'};

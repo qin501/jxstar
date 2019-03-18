@@ -1,0 +1,1 @@
+﻿jdLang['wf_checksev'] = {	'app_server__server_code':'Code',	'app_server__project_name':'System name',	'app_server__ds_name':'Data source',	'app_server__server_url':'System URL',	'app_server__data_type':'Data type',	'app_server__server_id':'Primary key'};

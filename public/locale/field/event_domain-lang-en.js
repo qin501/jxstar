@@ -1,0 +1,1 @@
+﻿jdLang['event_domain'] = {	'funall_domain__domain_code':'Domain event code',	'funall_domain__domain_name':'Domain event name',	'funall_domain__domain_id':'Domain id'};

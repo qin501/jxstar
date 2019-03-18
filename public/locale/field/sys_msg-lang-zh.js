@@ -1,0 +1,1 @@
+﻿jdLang['sys_msg'] = {	'sys_news__state':'状态',	'sys_news__news_cont':'消息内容',	'sys_news__edit_date':'发布时间',	'sys_news__edit_user':'发布人',	'sys_news__news_id':'主键',	'sys_news__edit_userid':'发布人ID',	'sys_news__cont_type':'信息类型'};

@@ -1,0 +1,1 @@
+﻿jdLang['wf_node'] = {	'wf_node__node_id':'Node ID',	'wf_node__node_title':'Node Name',	'wf_node__node_type':'Node type',	'wf_node__wfnode_id':'Primary key',	'wf_node__process_id':'Process ID'};

@@ -1,0 +1,1 @@
+﻿jdLang['sys_post'] = {	'sys_post__post_code':'岗位编码',	'sys_post__post_name':'岗位名称',	'sys_post__post_desc':'岗位描述',	'sys_post__auditing':'状态',	'sys_post__dept_name':'所属部门',	'sys_post__dept_id':'部门ID',	'sys_post__post_id':'岗位ID'};

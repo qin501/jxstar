@@ -1,0 +1,1 @@
+﻿jdLang['sel_combo'] = {	'v_combo_control__control_code':'Control code',	'v_combo_control__control_name':'Controls name'};

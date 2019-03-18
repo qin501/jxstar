@@ -1,0 +1,1 @@
+﻿jdLang['store_mtype'] = {	'store_mtype__type_code':'Type code',	'store_mtype__type_name':'Type name',	'store_mtype__type_level':'Level',	'store_mtype__type_desc':'Type description',	'store_mtype__type_id':'Primary key'};

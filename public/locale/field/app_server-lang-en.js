@@ -1,0 +1,1 @@
+﻿jdLang['app_server'] = {	'app_server__server_code':'Code',	'app_server__server_url':'Address',	'app_server__project_name':'Project name',	'app_server__server_state':'State',	'app_server__data_type':'Data type',	'app_server__server_id':'Primary key'};

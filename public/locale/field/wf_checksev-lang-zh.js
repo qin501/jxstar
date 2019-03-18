@@ -1,0 +1,1 @@
+﻿jdLang['wf_checksev'] = {	'app_server__server_code':'代号',	'app_server__project_name':'系统名称',	'app_server__ds_name':'数据源',	'app_server__server_url':'系统URL',	'app_server__data_type':'数据类型',	'app_server__server_id':'主键'};

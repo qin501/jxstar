@@ -1,0 +1,1 @@
+﻿jdLang['wf_line'] = {	'wf_line__line_id':'Flow ID',	'wf_line__line_title':'Turn title',	'wf_line__line_type':'Turn type',	'wf_line__source_id':'Source node ID',	'wf_line__target_id':'Target node ID',	'wf_line__wfline_id':'Primary key',	'wf_line__process_id':'Process ID'};

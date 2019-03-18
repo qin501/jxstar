@@ -1,0 +1,1 @@
+﻿jdLang['mat_base'] = {	'mat_base__mat_code':'Material code',	'mat_base__mat_name':'Material name',	'mat_base__mat_size':'Model',	'mat_base__mat_unit':'Unit',	'mat_base__type_code':'Type number',	'mat_base__type_name':'Type name',	'mat_base__type_id':'Type ID',	'mat_base__mat_id':'Material ID'};

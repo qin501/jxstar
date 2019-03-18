@@ -1,0 +1,1 @@
+﻿jdLang['imp_list'] = {	'imp_list__fun_id':'Feature ID',	'imp_list__fun_name':'Function name',	'imp_list__tpl_file':'Template file',	'imp_list__tpl_type':'Template type',	'imp_list__imp_index':'No.',	'imp_list__insert_sql':'New SQL',	'imp_list__imp_id':'Define ID'};

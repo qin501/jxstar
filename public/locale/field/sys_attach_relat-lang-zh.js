@@ -1,0 +1,1 @@
+﻿jdLang['sys_attach_relat'] = {	'sys_attach_relat__table_name':'当前表名',	'sys_attach_relat__target_table':'关联表名',	'sys_attach_relat__use_class':'定制类？',	'sys_attach_relat__relat_sql':'关联SQL或类名',	'sys_attach_relat__relat_name':'关联描述',	'sys_attach_relat__is_valid':'生效？',	'sys_attach_relat__relat_id':'主键'};

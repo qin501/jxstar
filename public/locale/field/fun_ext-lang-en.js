@@ -1,0 +1,1 @@
+﻿jdLang['fun_ext'] = {	'fun_ext__grid_initpage':'Grid inc file',	'fun_ext__form_initpage':'Form inc file',	'fun_ext__ext_id':'Extension ID',	'fun_ext__fun_id':'Function ID'};

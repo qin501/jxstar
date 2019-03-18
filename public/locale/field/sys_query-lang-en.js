@@ -1,0 +1,1 @@
+﻿jdLang['sys_query'] = {	'sys_query__query_name':'Query case',	'sys_query__is_default':'Default?',	'sys_query__query_no':'No.',	'sys_query__is_share':'Shared?',	'sys_query__user_name':'Creator',	'sys_query__fun_id':'Function ID',	'sys_query__query_id':'Query ID',	'sys_query__user_id':'Creator ID'};

@@ -1,0 +1,1 @@
+﻿jdLang['app_bar'] = {	'app_bar__bar_code':'Column code',	'app_bar__bar_name':'Column name',	'app_bar__pack_icon':'Column Icon',	'app_bar__bar_index':'Display no',	'app_bar__bar_type':'Column type',	'app_bar__page_url':'Page URL',	'app_bar__bar_memo':'Description',	'app_bar__bar_id':'Column ID'};

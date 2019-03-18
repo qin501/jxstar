@@ -1,0 +1,1 @@
+﻿jdLang['sys_role_field'] = {	'sys_role_field__col_code':'字段名称',	'sys_role_field__col_name':'字段标题',	'sys_role_field__role_fun_id':'角色功能ID',	'sys_role_field__role_field_id':'主键',	'sys_role_field__col_id':'字段ID'};

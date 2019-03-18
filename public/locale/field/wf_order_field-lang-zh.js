@@ -1,0 +1,1 @@
+﻿jdLang['wf_order_field'] = {	'wf_order_field__field_no':'序号',	'wf_order_field__field_name':'字段名',	'wf_order_field__field_title':'字段标题',	'wf_order_field__data_type':'数据类型',	'wf_order_field__control_name':'来源控件',	'wf_order_field__is_summary':'是否概要',	'wf_order_field__is_show':'是否显示',	'wf_order_field__field_id':'字段ID',	'wf_order_field__order_id':'审批单ID'};

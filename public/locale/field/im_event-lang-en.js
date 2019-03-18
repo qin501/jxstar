@@ -1,0 +1,1 @@
+﻿jdLang['im_event'] = };

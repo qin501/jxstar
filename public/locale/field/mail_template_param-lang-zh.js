@@ -1,0 +1,1 @@
+﻿jdLang['mail_template_param'] = {	'mail_template_param__param_index':'序号',	'mail_template_param__param_name':'参数代号',	'mail_template_param__param_title':'参数标题',	'mail_template_param__param_value':'缺省值',	'mail_template_param__param_type':'类型',	'mail_template_param__template_id':'模板ID',	'mail_template_param__param_id':'主键'};

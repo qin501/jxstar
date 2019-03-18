@@ -1,0 +1,1 @@
+﻿jdLang['wf_nodeattr1'] = {	'wf_nodeattr__custom_class':'自定义',	'wf_nodeattr__agree_num':'达到数',	'wf_nodeattr__process_id':'过程ID',	'wf_nodeattr__node_id':'节点ID',	'wf_nodeattr__nodeattr_id':'属性ID'};

@@ -1,0 +1,1 @@
+﻿jdLang['wf_assignhis'] = {	'v_wf_assignhis__process_name':'任务名称',	'process_num':'任务数量',	'v_wf_assignhis__fun_id':'功能ID',	'v_wf_assignhis__process_id':'过程ID'};

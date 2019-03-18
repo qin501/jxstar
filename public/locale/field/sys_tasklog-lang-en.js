@@ -1,0 +1,1 @@
+﻿jdLang['sys_tasklog'] = {	'task_log__start_date':'Start time',	'task_log__end_date':'End time',	'task_log__server_name':'Server name',	'task_log__server_ip':'Server IP',	'task_log__run_error':'Runtime error',	'task_log__task_id':'Task ID',	'task_log__log_id':'Log ID'};

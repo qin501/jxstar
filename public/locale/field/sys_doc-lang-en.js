@@ -1,0 +1,1 @@
+﻿jdLang['sys_doc'] = {	'sys_doc__edit_date':'Upload date',	'sys_doc__edit_user':'Heir',	'sys_doc__doc_name':'File name',	'sys_doc__is_cancel':'Cancel?',	'sys_doc__doc_memo':'File desc',	'sys_doc__edit_userid':'Upload user ID',	'sys_doc__doc_id':'Primary key'};

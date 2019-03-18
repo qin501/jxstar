@@ -1,0 +1,1 @@
+﻿jdLang['app_role'] = {	'app_role__role_code':'角色编号',	'app_role__role_name':'角色名称',	'app_role__role_memo':'描述',	'app_role__role_id':'角色ID'};

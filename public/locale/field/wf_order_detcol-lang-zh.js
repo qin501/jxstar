@@ -1,0 +1,1 @@
+﻿jdLang['wf_order_detcol'] = {	'wf_order_detcol__field_no':'序号',	'wf_order_detcol__field_name':'字段名',	'wf_order_detcol__field_title':'字段标题',	'wf_order_detcol__data_type':'数据类型',	'wf_order_detcol__control_name':'来源控件',	'wf_order_detcol__display_col':'显示列',	'wf_order_detcol__is_statcol':'统计?',	'wf_order_detcol__detail_id':'明细ID',	'wf_order_detcol__col_detid':'明细字段ID'};

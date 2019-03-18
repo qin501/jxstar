@@ -1,0 +1,1 @@
+﻿jdLang['oa_news_obj'] = {	'oa_news_obj__obj_code':'Object number',	'oa_news_obj__obj_name':'Name',	'oa_news_obj__obj_type':'Type',	'oa_news_obj__not_show':'Not concerned',	'oa_news_obj__obj_detid':'Primary key',	'oa_news_obj__news_id':'News ID',	'oa_news_obj__obj_id':'Object ID'};

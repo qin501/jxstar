@@ -1,0 +1,1 @@
+﻿jdLang['lab_field'] = {	'lab_field__field_index':'序号',	'lab_field__field_code':'字段名',	'lab_field__field_title':'字段标题',	'lab_field__case_id':'方案id',	'lab_field__field_id':'主键'};

@@ -1,0 +1,1 @@
+﻿jdLang['sys_stat'] = {	'sys_stat__stat_name':'',	'sys_stat__is_share':'Shared?',	'sys_stat__user_name':'Creator',	'sys_stat__fun_id':'Function ID',	'sys_stat__stat_id':'Primary key',	'sys_stat__user_id':'Creator ID'};

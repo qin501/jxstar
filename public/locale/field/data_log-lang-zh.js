@@ -1,0 +1,1 @@
+﻿jdLang['data_log'] = };

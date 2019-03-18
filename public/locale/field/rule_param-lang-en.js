@@ -1,0 +1,1 @@
+﻿jdLang['rule_param'] = {	'fun_rule_param__param_name':'Parameter name',	'fun_rule_param__param_type':'Parameter type',	'fun_rule_param__param_no':'No.',	'fun_rule_param__param_id':'Parameter ID',	'fun_rule_param__rule_id':'Rule ID',	'fun_rule_param__param_src':'Parameter source'};

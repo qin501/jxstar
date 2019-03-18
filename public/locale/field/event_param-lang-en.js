@@ -1,0 +1,1 @@
+﻿jdLang['event_param'] = {	'fun_event_param__param_type':'Parameter type',	'fun_event_param__param_name':'Parameter name',	'fun_event_param__param_value':'Parameter value',	'fun_event_param__param_index':'No.',	'fun_event_param__param_memo':'Parameter desc',	'fun_event_param__invoke_id':'Call ID',	'fun_event_param__param_id':'Parameter ID'};

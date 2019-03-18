@@ -1,0 +1,1 @@
+﻿jdLang['lab_case'] = {	'lab_case__case_code':'方案编号',	'lab_case__case_name':'方案名称',	'lab_case__auditing':'状态',	'lab_case__case_id':'主键'};

@@ -1,0 +1,1 @@
+﻿jdLang['dm_viewcfg'] = {	'dm_viewcfg__state':'State',	'dm_viewcfg__view_name':'View name',	'dm_viewcfg__view_memo':'View desc',	'dm_viewcfg__view_sql':'View script',	'dm_viewcfg__view_id':'View ID'};

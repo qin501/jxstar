@@ -1,0 +1,1 @@
+﻿jdLang['app_update'] = {	'app_update__appid':'APP代号',	'app_update__update_version':'版本号',	'app_update__update_note':'更新内容',	'app_update__down_url':'下载路径',	'app_update__update_type':'更新类型',	'app_update__os_type':'系统类型',	'app_update__update_title':'标题',	'app_update__update_id':'主键'};

@@ -1,0 +1,1 @@
+﻿jdLang['sel_fun_col'] = {	'fun_col__col_code':'Field code',	'fun_col__col_name':'Field name',	'fun_col__data_type':'Data type',	'fun_col__col_id':'Field ids',	'fun_col__fun_id':'Function ID'};

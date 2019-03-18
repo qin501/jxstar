@@ -1,0 +1,1 @@
+﻿jdLang['sys_role'] = {	'sys_role__role_no':'Role no',	'sys_role__role_name':'Role name',	'sys_role__role_memo':'Role description',	'sys_role__dept_name':'Belong dept',	'sys_role__templet_name':'Template name',	'sys_role__role_id':'Role ID',	'sys_role__dept_id':'Dept ID',	'sys_role__templet_id':'Template ID'};

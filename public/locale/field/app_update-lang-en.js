@@ -1,0 +1,1 @@
+﻿jdLang['app_update'] = {	'app_update__appid':'APP code',	'app_update__update_version':'Version number',	'app_update__update_note':'Update content',	'app_update__down_url':'Download path',	'app_update__update_type':'Update type',	'app_update__os_type':'System type',	'app_update__update_title':'Title',	'app_update__update_id':'Primary key'};

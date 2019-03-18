@@ -1,0 +1,1 @@
+﻿jdLang['oa_appbx_det'] = {	'oa_appbx_det__appbx_project':'报销项目',	'oa_appbx_det__money':'金额(元)',	'oa_appbx_det__det_id':'主键',	'oa_appbx_det__apply_id':'报销单id'};

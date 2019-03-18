@@ -1,0 +1,1 @@
+﻿jdLang['wf_sheet'] = {	'wf_sheet__state':'状态',	'wf_sheet__report_name':'报表名称',	'wf_sheet__report_file':'模板文件',	'wf_sheet__sheet_desc':'审批单说明',	'wf_sheet__version_code':'版本',	'wf_sheet__version_date':'版本日期',	'wf_sheet__where_sql':'使用过滤条件',	'wf_sheet__process_id':'过程ID',	'wf_sheet__sheet_id':'主键',	'wf_sheet__report_id':'报表ID'};

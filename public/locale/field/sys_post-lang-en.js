@@ -1,0 +1,1 @@
+﻿jdLang['sys_post'] = {	'sys_post__post_code':'Job code',	'sys_post__post_name':'Job name',	'sys_post__post_desc':'Job description',	'sys_post__auditing':'State',	'sys_post__dept_name':'Belong to dept',	'sys_post__dept_id':'Dept ID',	'sys_post__post_id':'Job ID'};

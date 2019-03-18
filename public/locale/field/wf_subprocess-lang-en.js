@@ -1,0 +1,1 @@
+﻿jdLang['wf_subprocess'] = {	'wf_subprocess__sub_process':'Child process',	'wf_subprocess__node_id':'Node ID',	'wf_subprocess__wfsub_id':'Primary key',	'wf_subprocess__process_id':'Process ID',	'wf_subprocess__sub_processid':'Child process ID'};

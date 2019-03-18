@@ -1,0 +1,1 @@
+﻿jdLang['sel_field'] = {	'v_field_info__col_code':'Field code',	'v_field_info__col_name':'Field name',	'v_field_info__col_index':'Serial number field',	'v_field_info__data_type':'Data type',	'v_field_info__col_control':'Control types',	'v_field_info__format_id':'Data style',	'v_field_info__table_name':'Table name'};

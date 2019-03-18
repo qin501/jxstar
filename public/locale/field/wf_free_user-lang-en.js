@@ -1,0 +1,1 @@
+﻿jdLang['wf_free_user'] = {	'wf_free_user__free_index':'No.',	'wf_free_user__user_code':'No',	'wf_free_user__user_name':'Name',	'wf_free_user__dept_name':'Department',	'wf_free_user__user_id':'User ID',	'wf_free_user__dept_id':'Dept ID',	'wf_free_user__free_id':'Primary key',	'wf_free_user__data_id':'Data ID',	'wf_free_user__fun_id':'Function ID'};

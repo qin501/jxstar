@@ -1,0 +1,1 @@
+﻿jdLang['sys_doing'] = {	'sys_doing__fun_id':'Function ID',	'sys_doing__event_code':'Event code',	'sys_doing__key_id':'Data ID',	'sys_doing__page_type':'Page type',	'sys_doing__add_userid':'New user ID',	'sys_doing__add_date':'New time'};

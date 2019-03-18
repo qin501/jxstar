@@ -1,0 +1,1 @@
+﻿jdLang['wf_nodeattr1'] = {	'wf_nodeattr__custom_class':'Custom',	'wf_nodeattr__agree_num':'Attained number',	'wf_nodeattr__process_id':'Process ID',	'wf_nodeattr__node_id':'Node ID',	'wf_nodeattr__nodeattr_id':'Attribute ID'};

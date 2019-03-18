@@ -1,0 +1,1 @@
+﻿jdLang['wf_condition'] = {	'wf_condition__cond_where':'Judge condition',	'wf_condition__use_class':'Custom classe?',	'wf_condition__line_id':'Flow ID',	'wf_condition__condition_id':'Condition ID',	'wf_condition__process_id':'Process ID'};

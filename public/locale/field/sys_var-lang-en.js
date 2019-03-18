@@ -1,0 +1,1 @@
+﻿jdLang['sys_var'] = {	'sys_var__var_code':'Attribute coding',	'sys_var__var_name':'Attribute name',	'sys_var__var_value':'Attribute value',	'sys_var__use_page':'Used in page?',	'sys_var__var_memo':'Attribute description',	'sys_var__var_id':'Attribute ID'};

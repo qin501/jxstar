@@ -1,0 +1,1 @@
+﻿jdLang['lab_field1'] = {	'lab_field__field_index':'No.',	'lab_field__field_code':'Field code',	'lab_field__field_title':'Field name',	'lab_field__case_id':'Project id',	'lab_field__field_id':'Primary key'};

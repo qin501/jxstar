@@ -1,0 +1,1 @@
+﻿jdLang['dm_indexcfg'] = {	'dm_indexcfg__state':'State',	'dm_indexcfg__index_name':'Index name',	'dm_indexcfg__index_field':'Related field',	'dm_indexcfg__isunique':'Only?',	'dm_indexcfg__index_memo':'Index desc',	'dm_indexcfg__index_id':'Index ID',	'dm_indexcfg__table_id':'Table ID'};

@@ -1,0 +1,1 @@
+﻿jdLang['app_server'] = {	'app_server__server_code':'代号',	'app_server__server_url':'地址',	'app_server__project_name':'项目名称',	'app_server__server_state':'状态',	'app_server__data_type':'数据类型',	'app_server__server_id':'主键'};

@@ -1,0 +1,1 @@
+﻿jdLang['sys_default'] = {	'funall_default__func_name':'Function name',	'funall_default__memo':'Function description',	'funall_default__func_id':'Function define ID'};

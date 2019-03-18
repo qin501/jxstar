@@ -1,0 +1,1 @@
+﻿jdLang['total_areach'] = {	'rpt_chart__area_index':'序号',	'rpt_chart__area_name':'名称',	'rpt_chart__iconcls':'图标CSS',	'rpt_chart__area_type':'区域类型',	'rpt_chart__object_id':'统计ID|图形ID',	'rpt_chart__object_name':'统计对象',	'rpt_chart__report_id':'报表ID',	'rpt_chart__area_id':'区域ID'};

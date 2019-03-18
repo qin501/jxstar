@@ -1,0 +1,1 @@
+﻿jdLang['sys_docqry'] = {	'sys_attach__attach_name':'File name',	'sys_attach__attach_id':'Attachment ID',	'sys_attach__data_id':'Record ID',	'sys_attach__table_name':'Table name',	'sys_attach__attach_path':'Attach path'};

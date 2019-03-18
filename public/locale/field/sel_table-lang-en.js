@@ -1,0 +1,1 @@
+﻿jdLang['sel_table'] = {	'dm_table__table_name':'Table name',	'dm_table__table_title':'Table title',	'dm_table__ds_name':'Data source',	'dm_table__table_type':'Table type',	'dm_table__table_id':'Table ID',	'dm_table__state':'State',	'dm_table__table_memo':'Table desc',	'dm_table__key_field':'Primary key',	'dm_table__table_space':'Table space'};

@@ -1,0 +1,1 @@
+﻿jdLang['wf_assignsel'] = {	'v_wf_assignsel__check_user':'审批人',	'v_wf_assignsel__node_title':'节点',	'v_wf_assignsel__node_id':'节点ID',	'v_wf_assignsel__check_userid':'审批人ID',	'v_wf_assignsel__data_id':'数据ID',	'v_wf_assignsel__fun_id':'功能ID'};

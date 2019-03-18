@@ -1,0 +1,1 @@
+﻿jdLang['fun_check'] = {	'fun_check__status':'状态',	'fun_check__check_no':'序号',	'fun_check__check_name':'检查项描述',	'fun_check__set_type':'设置类型',	'fun_check__dest_sql':'执行SQL',	'fun_check__class_name':'类名',	'fun_check__method_name':'方法名',	'fun_check__fun_id':'功能标识',	'fun_check__event_code':'事件代号',	'fun_check__check_id':'检查项ID'};

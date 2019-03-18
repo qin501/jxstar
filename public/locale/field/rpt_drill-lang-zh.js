@@ -1,0 +1,1 @@
+﻿jdLang['rpt_drill'] = {	'rpt_drill__fun_id':'功能ID',	'rpt_drill__where_sql':'显示WhereSql',	'rpt_drill__where_type':'显示WhereType',	'rpt_drill__where_value':'显示WhereValue',	'rpt_drill__use_field':'钻取字段',	'rpt_drill__show_mode':'显示方式',	'rpt_drill__drill_id':'主键',	'rpt_drill__area_id':'区域ID'};

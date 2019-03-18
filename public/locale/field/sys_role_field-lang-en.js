@@ -1,0 +1,1 @@
+﻿jdLang['sys_role_field'] = {	'sys_role_field__col_code':'Field name',	'sys_role_field__col_name':'Field',	'sys_role_field__role_fun_id':'Role function ID',	'sys_role_field__role_field_id':'Primary key',	'sys_role_field__col_id':'Field ids'};
